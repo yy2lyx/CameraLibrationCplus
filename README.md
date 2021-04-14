@@ -1,1 +1,3 @@
-# CameraLibrationCplus
+# 单目相机标定C++版
+* 目录`data/pattern/`下面放置用单目相机不同角度拍摄的棋盘格图像。
+* 目录`data/results/`放置单目相机标定的相机内参结果。
